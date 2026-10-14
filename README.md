@@ -1,5 +1,5 @@
-## Advanced Analytics Pipeline: Investor RFM Behavioral Segmentation## 🎯 Executive Summary
-This repository contains a full-stack data analytics project designed to optimize asset retention and target high-net-worth client cohorts for wealth management institutions. As part of my graduate portfolio, this project re-engineers the traditional retail RFM (Recency, Frequency, Monetary) framework to analyze financial transactional behavior:
+## Advanced Analytics Pipeline: Investor RFM Behavioral Segmentation 🎯 Executive Summary
+This full-stack data analytics project optimizes asset retention and targets high-net-worth client cohorts for wealth management institutions. This project re-engineers the traditional retail RFM (Recency, Frequency, Monetary) framework to analyze financial transactional behavior:
 
 * Recency (R): Days of account inactivity calibrated dynamically relative to the latest global transaction timestamp.
 * Frequency (F): Longitudinal transaction volume velocity per distinct entity.
